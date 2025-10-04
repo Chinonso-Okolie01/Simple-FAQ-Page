@@ -1,2 +1,8 @@
-*.txt
-*.txt
+*.env
+
+*.fig
+*.xd
+*txt
+.DS_Store
+.prettierignore
+
